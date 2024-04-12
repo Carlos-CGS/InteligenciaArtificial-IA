@@ -45,6 +45,8 @@
 #### Outras Ferramentas de IA
 | Nome              | O Que Faz                                       | Link                                           |
 |-------------------|-------------------------------------------------|------------------------------------------------|
+| ZeroGPT           | Verifica se um texto foi gerado por IA          | [link](https://www.zerogpt.com/)               |
+| Reesctitor        | Faz textos de IA ficarem parecidos com textos humanos | [link](https://reescritor.net/)          |
 | Venturus IA       | Análise SWOT do seu negócio com IA generativa  | [Link](https://venturusai.com/)                |
 | ElevenLabs        | Leitura de textos com até 2500 caracteres e várias vozes | [Link](https://elevenlabs.io/)                 |
 | HeyGen            | Gerador de vídeos com IA generativa e avatares  | [Link](https://www.heygen.com/)                |
