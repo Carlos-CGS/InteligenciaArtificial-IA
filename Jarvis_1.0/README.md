@@ -2,7 +2,7 @@
 # "Just A Rather Very Intelligent System"
 ## Descrição Geral
 > Este projeto implementa um assistente de voz chamado J.A.R.V.I.S. utilizando a biblioteca tkinter para a interface gráfica, speech_recognition para reconhecimento de fala, pyttsx3 para síntese de voz e a API do Google para realizar pesquisas.
-![appRodandoJarvis](jarvisImg.png) 
+![e-book](e-book.png) 
 > Dependências: Para executar este código, você precisará das seguintes bibliotecas:
 - tkinter
 - threading
@@ -59,7 +59,7 @@
 
 > Loop Principal do Assistente
 Para iniciar o assistente, execute o código. A interface gráfica será exibida com um botão para iniciar o assistente. O assistente ficará ouvindo comandos de voz e responderá de acordo com as funções implementadas.
-
+![appRodandoJarvis](jarvisImg.png) 
 ### Comandos Suportados
 - Pesquisar: Realiza uma pesquisa no Google.
 - Tocar música: Reproduz uma música do YouTube.
