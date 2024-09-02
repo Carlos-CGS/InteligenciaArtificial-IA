@@ -40,6 +40,8 @@ Este repositório contém a contracapa que criei para compartilhar com a comunid
 2. **Impressão**: Imprima a contracapa no verso dos certificados do bootcamp.
 3. **Compartilhamento**: Sinta-se à vontade para compartilhar a contracapa com outros participantes ou para fins de divulgação.
 
+![Contracapa do Certificado](./contraCapa.png)
+
 ## Agradecimentos
 
 Agradeço à Microsoft pelo BootCamp - Microsoft Copilot AI e à DIO pela oportunidade de aprender e crescer nessa jornada de Inteligência Artificial e GitHub Copilot.
