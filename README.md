@@ -4,6 +4,8 @@
 
 >Anteriormente, deveríamos saber todas as respostas, porém em um mundo de IA, a necessidade de fazer as perguntas corretas se torna crucial para obter os resultados desejados. Ao invés de saber as respostas, o importante é formular as perguntas corretas.
 
+<img src="ia.png">
+
 #### Existem várias maneiras de ser mais assertivo ao fazer perguntas às IA generativas:
 
 | Conceito                                 | O Que Faz                                      | Exemplo de Utilização                                                                               |
