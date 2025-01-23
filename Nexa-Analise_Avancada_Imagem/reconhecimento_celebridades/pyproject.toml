@@ -1,0 +1,11 @@
+[project]
+name = "reconhecimento-celebridades"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "boto3>=1.35.64",
+    "boto3-stubs[rekognition]>=1.35.64",
+    "pillow>=11.0.0",
+]
