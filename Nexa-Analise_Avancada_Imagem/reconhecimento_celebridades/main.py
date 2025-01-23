@@ -1,5 +1,4 @@
 from pathlib import Path
-
 import boto3
 from mypy_boto3_rekognition.type_defs import (
     CelebrityTypeDef,
@@ -7,7 +6,10 @@ from mypy_boto3_rekognition.type_defs import (
 )
 from PIL import Image, ImageDraw, ImageFont
 
-client = boto3.client("rekognition")
+# Especificando a região no cliente Rekognition
+client = boto3.client(
+    "rekognition", region_name="us-east-1"
+)  # Substitua pela sua região
 
 
 def get_path(file_name: str) -> str:
@@ -22,7 +24,13 @@ def recognize_celebrities(photo: str) -> RecognizeCelebritiesResponseTypeDef:
 def draw_boxes(image_path: str, output_path: str, face_details: list[CelebrityTypeDef]):
     image = Image.open(image_path)
     draw = ImageDraw.Draw(image)
-    font = ImageFont.truetype("Ubuntu-R.ttf", 20)
+
+    # Tente carregar uma fonte padrão ou use a padrão do PIL
+    try:
+        font = ImageFont.truetype("Ubuntu-R.ttf", 20)
+    except IOError:
+        print("Fonte 'Ubuntu-R.ttf' não encontrada, usando fonte padrão.")
+        font = ImageFont.load_default()
 
     width, height = image.size
 
@@ -55,10 +63,17 @@ if __name__ == "__main__":
     ]
 
     for photo_path in photo_paths:
-        response = recognize_celebrities(photo_path)
-        faces = response["CelebrityFaces"]
-        if not faces:
-            print(f"Não foram encontrados famosos para a imagem: {photo_path}")
-            continue
-        output_path = get_path(f"{Path(photo_path).stem}-resultado.jpg")
-        draw_boxes(photo_path, output_path, faces)
+        try:
+            response = recognize_celebrities(photo_path)
+            faces = response.get("CelebrityFaces", [])
+            if not faces:
+                print(f"Não foram encontrados famosos para a imagem: {photo_path}")
+                continue
+
+            output_path = get_path(f"{Path(photo_path).stem}-resultado.jpg")
+            draw_boxes(photo_path, output_path, faces)
+
+        except FileNotFoundError:
+            print(f"Arquivo não encontrado: {photo_path}")
+        except Exception as e:
+            print(f"Erro ao processar {photo_path}: {e}")
