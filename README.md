@@ -6,18 +6,32 @@
 
 <img src="ia.png" height="300" width="100%">
 
-#### Existem várias maneiras de ser mais assertivo ao fazer perguntas às IA generativas:
+### 💡 **Dicas para Criar Prompts Assertivos**  
 
-| Conceito                                 | O Que Faz                                      | Exemplo de Utilização                                                                               |
-|------------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **Receba Textos e Aguarde**              | Aguarda até receber os textos e instruções    | Aguarde até que todos os textos e instruções necessários sejam fornecidos antes de gerar uma resposta. |
-| **Programar o "tom" da resposta**        | Responde de forma desejada, como descontraída | Ao explicar um conceito, responda de forma descontraída e amigável para criar um ambiente confortável. |
-| **Correções Linguísticas**               | Corrige erros gramaticais e de concordância   | Faça a correção dos erros gramaticais e de concordância em textos fornecidos.                         |
-| **ELI5 (Explain Like I'm 5)**           | Explica conceitos de forma simples como se fosse para uma criança de  anos | Explique POO em c# como ELI5 |
-| **TL;DR (Too Long; Didn't Read)**       | Resumo de artigos fornecidos por links        | TL;DR insiraSeuLinkAqui                  |
-| **Prompt Engineer**                     | Formula perguntas precisas                    | Elabore perguntas específicas e direcionadas para obter respostas precisas sobre...                   |
+1. **Seja específico:** Quanto mais detalhado for o seu pedido, mais precisa será a resposta.  
+2. **Peça o formato correto:** Se deseja código, peça em Markdown; se precisa de uma lista, especifique.  
+3. **Contextualize:** Explique o que já sabe e o que precisa aprender.  
+4. **Use exemplos e referências:** Isso ajuda a IA a entender melhor sua intenção.  
+5. **Revise e ajuste:** Caso a resposta não seja ideal, refine o prompt e tente novamente. 
+
+#### Como Ser Mais Assertivo ao Fazer Perguntas às IA Generativas  
+
+| Conceito                                | O Que Faz                                             | Exemplo de Utilização                                                                       |
+|-----------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------------------|
+| **Receba Textos e Aguarde**             | Garante que a IA tenha todas as informações antes de responder. | "Aguarde até que todos os textos e instruções sejam fornecidos antes de gerar uma resposta." |
+| **Definir o "Tom" da Resposta**         | Define se a resposta deve ser formal, descontraída, técnica, etc. | "Explique como funciona o React de forma descontraída e amigável." |
+| **Correções Linguísticas**              | Corrige erros gramaticais e melhora a clareza do texto. | "Corrija os erros gramaticais e reescreva este texto de forma clara e objetiva." |
+| **ELI5 (Explain Like I'm 5)**           | Explica conceitos de forma extremamente simples, como para uma criança. | "Explique Programação Orientada a Objetos em C# no estilo ELI5." |
+| **TL;DR (Too Long; Didn't Read)**       | Resume textos longos de forma objetiva e clara. | "TL;DR deste artigo: [insira o link aqui]" |
+| **Prompt Engineering**                  | Formula perguntas precisas para respostas mais relevantes. | "Liste 5 vantagens do uso de TypeScript no desenvolvimento frontend." |
+| **Definir Formato de Saída**            | Especifica o formato desejado para a resposta, como lista, tabela, código, etc. | "Liste as diferenças entre Python e JavaScript em formato de tabela." |
+| **Especificar Contexto**                | Dá à IA mais informações sobre o que se deseja saber. | "Explique o conceito de Machine Learning considerando sua aplicação em fintechs." |
+| **Passo a Passo**                       | Solicita que a resposta seja detalhada e estruturada. | "Explique como conectar um banco de dados MySQL ao Node.js passo a passo." |
+| **Fornecer Exemplos**                   | Melhora a resposta ao pedir exemplos práticos. | "Dê exemplos práticos de uso de hooks no React." |
+| **Iteração e Refinamento**              | Pede para a IA refazer ou ajustar a resposta conforme necessidade. | "Reescreva a explicação anterior de forma mais técnica e aprofundada." |
 
 
+---
 ### Ferramentas de IA Generativa Organizadas por Tipo
 
 #### IAs Generativas  
@@ -40,6 +54,7 @@
 | HuggingChat      | Chatbot open-source baseado em modelos da Hugging Face    | [Link](https://huggingface.co/chat/) |  
 | Open Assistant   | Assistente de IA open-source treinado para conversas naturais e úteis | [Link](https://open-assistant.io/) |  
 
+---
 #### IA Generativa de Imagens
 | Nome             | O Que Faz                                       | Link                                               |
 |------------------|-------------------------------------------------|----------------------------------------------------|
@@ -52,6 +67,7 @@
 | Looka            | Gerador de logotipos e fontes com IA           | [Link](https://looka.com/)                        |
 | Bing Copilot     | Gerador de imagens e respostas via IA da Microsoft | [Link](https://www.bing.com/images/create)         |
 
+---
 #### Outras Ferramentas de IA
 | Nome              | O Que Faz                                       | Link                                           |
 |-------------------|-------------------------------------------------|------------------------------------------------|
