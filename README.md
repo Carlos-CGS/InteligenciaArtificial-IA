@@ -20,17 +20,25 @@
 
 ### Ferramentas de IA Generativa Organizadas por Tipo
 
-#### IA Generativa de Texto
-| Nome          | O Que Faz                                      | Link                                      |
-|---------------|------------------------------------------------|-------------------------------------------|
-| ChatGPT       | Ferramenta para processamento de linguagem natural treinada pela OpenAI   | [Link](https://chat.openai.com/)          |
-| Google Bard   | gerar textos automáticos, traduzir documentos, responder perguntas e realizar comandos | [Link](https://gemini.google.com/app)     |
-| Claude        | Chatbot corporativo da Claude                 | [Link](https://claude.ai/login?returnTo=%2F) |
-| Cohere        | Plataforma de IA generativa                   | [Link](https://cohere.com/)               |
-| Gamma         | Criador de apresentações com IA Generativa    | [Link](https://gamma.app/?lng=en)         |
-| POE           | Conjunto de assistentes de IA generativa      | [Link](https://poe.com/)                  |
-| Jasper.IA     | Criação de conteúdos para Marketing com IA   | [Link](https://www.jasper.ai/)            |
-| AIPRM for ChatGPT | Criador de prompts para ChatGPT e IAs Generativas | [Link](https://app.aiprm.com/)            |
+#### IAs Generativas  
+| Nome               | O Que Faz                                                 | Link                                       |  
+|--------------------|----------------------------------------------------------|-------------------------------------------|  
+| ChatGPT           | Ferramenta para processamento de linguagem natural treinada pela OpenAI | [Link](https://chat.openai.com/) |  
+| Google Bard       | Gerar textos automáticos, traduzir documentos, responder perguntas e realizar comandos | [Link](https://gemini.google.com/app) |  
+| Claude            | Chatbot corporativo da Claude                            | [Link](https://claude.ai/login?returnTo=%2F) |  
+| Cohere            | Plataforma de IA generativa                              | [Link](https://cohere.com/) |  
+| Gamma             | Criador de apresentações com IA Generativa               | [Link](https://gamma.app/?lng=en) |  
+| POE               | Conjunto de assistentes de IA generativa                 | [Link](https://poe.com/) |  
+| Jasper.IA         | Criação de conteúdos para Marketing com IA               | [Link](https://www.jasper.ai/) |  
+| AIPRM for ChatGPT | Criador de prompts para ChatGPT e IAs Generativas        | [Link](https://app.aiprm.com/) |  
+| Gemini (Google)   | IA da Google para gerar textos, traduzir documentos e responder perguntas | [Link](https://gemini.google.com/app) |  
+| Copilot (Microsoft) | Assistente de IA da Microsoft integrado ao ecossistema da empresa como VsCode e outras ferramentas | [Link](https://copilot.microsoft.com/) |  
+| Perplexity        | IA especializada em busca e respostas baseadas em fontes confiáveis | [Link](https://www.perplexity.ai/) |  
+| DeepSeek          | Modelo de IA generativa Chinesa focada em compreensão e geração de texto | [Link](https://deepseek.com/) | 
+| Mistral AI       | Modelos de IA open-source especializados em geração de texto e código | [Link](https://mistral.ai/) |  
+| Llama (Meta)     | Modelos de IA desenvolvidos pela Meta para geração de linguagem natural | [Link](https://ai.meta.com/llama/) |  
+| HuggingChat      | Chatbot open-source baseado em modelos da Hugging Face    | [Link](https://huggingface.co/chat/) |  
+| Open Assistant   | Assistente de IA open-source treinado para conversas naturais e úteis | [Link](https://open-assistant.io/) |  
 
 #### IA Generativa de Imagens
 | Nome             | O Que Faz                                       | Link                                               |
