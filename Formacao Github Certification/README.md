@@ -15,7 +15,7 @@ A formação é ideal para desenvolvedores, gerentes de projeto e administradore
 ## Recursos Adicionais
 
 Além do conteúdo da formação, criei uma **contracapa detalhada** com informações sobre todos os cursos e módulos da formação. Estou compartilhando este material com a comunidade para ajudar outros profissionais a entenderem melhor o conteúdo e se prepararem para os desafios.
-<img src="./contraCapa.png">
+<img src="./ContraCapa.png">
 
 ## Como Contribuir
 
