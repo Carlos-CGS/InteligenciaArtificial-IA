@@ -24,3 +24,6 @@ Durante o bootcamp, exploramos:
 
 ## Desafio 02 - Organizador de Imposto de Renda
 <img src ="./Desafio02.png">
+
+## ContraCapa BootCamp
+<img src="./SantanderExcelcomIA.png">
