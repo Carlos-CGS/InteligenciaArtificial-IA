@@ -20,5 +20,7 @@ Durante o bootcamp, exploramos:
 ---
 
 ## Desafio 01 - Controlador de Investimentos
-
 <img src="./Desafio01.png">
+
+## Desafio 02 - Organizador de Imposto de Renda
+<img src ="./Desafio02.png">
