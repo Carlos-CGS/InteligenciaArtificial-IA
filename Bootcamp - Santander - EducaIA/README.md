@@ -14,8 +14,9 @@ O material foi desenvolvido para promover o autocontrole emocional, comunicaçã
 
 ## Autor
 
-Material produzido como parte da atividade do bootcamp **Santander Educa IA** na DIO.
+Material produzido por IA e com revisão humana, como parte da atividade do bootcamp **Santander Educa IA** na DIO.
 
 ---
 
 > Para dúvidas ou sugestões, acesse o [link do bootcamp](https://web.dio.me/track/santander-educaia).
+
