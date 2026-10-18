@@ -387,6 +387,7 @@ Classifique os achados em crítico, alto, médio e baixo. Não modifique os arqu
 | Cleanup.pictures | Remoção de objetos em imagens | [Acessar](https://cleanup.pictures/) |
 | remove.bg | Remoção automática de fundo | [Acessar](https://www.remove.bg/) |
 | Looka | Criação assistida de logotipos e identidade visual | [Acessar](https://looka.com/) |
+| AI Comic Translator | Tradutor de quadrinhos com IA | [Acessar](https://www.mangatranslate.com/ko/ai-manga-translator/) |
 
 ### Estrutura básica para prompts de imagem
 
