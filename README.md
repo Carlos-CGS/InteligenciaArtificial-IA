@@ -438,6 +438,7 @@ Proporção:
 | CapCut | Edição de vídeo com diversos recursos de IA | [Acessar](https://www.capcut.com/) |
 | InVideo | Criação de vídeos a partir de roteiros e prompts | [Acessar](https://invideo.io/) |
 | Descript | Edição de vídeo e áudio baseada em transcrição | [Acessar](https://www.descript.com/) |
+| Orkas | App desktop de código aberto (macOS · Windows) com uma equipe de agentes de IA; o agente VideoStudio monta uma primeira versão revisável do vídeo a partir do material bruto | [Acessar](https://orkas.ai/?lang=pt&source=gh_carlos_ia) |
 
 ### Elementos de um bom prompt de vídeo
 
