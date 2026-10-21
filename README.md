@@ -439,6 +439,7 @@ Proporção:
 | InVideo | Criação de vídeos a partir de roteiros e prompts | [Acessar](https://invideo.io/) |
 | Descript | Edição de vídeo e áudio baseada em transcrição | [Acessar](https://www.descript.com/) |
 | Orkas | App desktop de código aberto (macOS · Windows) com uma equipe de agentes de IA; o agente VideoStudio monta uma primeira versão revisável do vídeo a partir do material bruto | [Acessar](https://orkas.ai/?lang=pt&source=gh_carlos_ia) |
+| pitchboom.io | Estúdio de motion design com IA para anúncios em vídeo: cole a URL de um produto ou um briefing curto e receba vídeos com roteiro, storyboard editável, narração e música em 16:9, 9:16, 1:1, 4:5 e 3:4 (serviço pago, a partir de €30/mês) | [Acessar](https://pitchboom.io) |
 
 ### Elementos de um bom prompt de vídeo
 
