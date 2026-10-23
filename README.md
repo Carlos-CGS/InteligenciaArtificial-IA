@@ -522,6 +522,7 @@ Proporção:
 | Make | Criação visual de automações | [Acessar](https://www.make.com/) |
 | n8n | Automação de fluxos com opção de auto-hospedagem | [Acessar](https://n8n.io/) |
 | Miro AI | Brainstorming, diagramas e colaboração visual | [Acessar](https://miro.com/ai/) |
+| ImagineYourBook | Planejamento e escrita de livros com IA: monta o roteiro da obra inteira, redige capítulo por capítulo e exporta para Word, EPUB e Markdown; o rascunho deve ser revisado pelo autor (serviço pago) | [Acessar](https://www.imagineyourbook.com/) |
 
 [⬆️ Voltar ao índice](#-índice)
 
