@@ -220,6 +220,7 @@ Revise a resposta, identifique possíveis erros e informe qualquer ponto que pre
 | Bolt | Desenvolvimento de aplicações diretamente no navegador | [Acessar](https://bolt.new/) |
 | Firebase Studio | Prototipagem e desenvolvimento conectado ao ecossistema Firebase | [Acessar](https://firebase.studio/) |
 | GitHub Spark | Criação de pequenas aplicações conectadas ao GitHub | [Acessar](https://github.com/features/spark) |
+| deed.page | Publicação do HTML ou da pasta estática gerada por um agente de IA (Claude Code, Codex, Cursor) em um link público, sem criar conta | [Acessar](https://deed.page/) |
 
 ### O que pedir a uma IA de programação
 
