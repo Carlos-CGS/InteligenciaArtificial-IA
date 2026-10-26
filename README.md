@@ -388,6 +388,7 @@ Classifique os achados em crítico, alto, médio e baixo. Não modifique os arqu
 | remove.bg | Remoção automática de fundo | [Acessar](https://www.remove.bg/) |
 | Looka | Criação assistida de logotipos e identidade visual | [Acessar](https://looka.com/) |
 | AI Comic Translator | Tradutor de quadrinhos com IA | [Acessar](https://www.mangatranslate.com/ko/ai-manga-translator/) |
+| APPLORE | Geração de ícones de app com IA, com 18.000+ ícones reais da App Store e Google Play como referência | [Acessar](https://applore.app/ai-app-icon-generator) |
 
 ### Estrutura básica para prompts de imagem
 
