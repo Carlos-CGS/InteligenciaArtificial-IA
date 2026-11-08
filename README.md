@@ -390,6 +390,7 @@ Classifique os achados em crítico, alto, médio e baixo. Não modifique os arqu
 | Looka | Criação assistida de logotipos e identidade visual | [Acessar](https://looka.com/) |
 | AI Comic Translator | Tradutor de quadrinhos com IA | [Acessar](https://www.mangatranslate.com/ko/ai-manga-translator/) |
 | APPLORE | Geração de ícones de app com IA, com 18.000+ ícones reais da App Store e Google Play como referência | [Acessar](https://applore.app/ai-app-icon-generator) |
+| objekto.io | Design de objetos físicos com IA: descreva um objeto em palavras, foto ou esboço e a IA projeta um modelo 3D imprimível de várias peças, com vista explodida e guia de montagem; uma oficina industrial imprime em 3D e entrega (entrega só na França; freemium com 2.000 créditos grátis no cadastro, planos a partir de €29/mês) | [Acessar](https://objekto.io/en) |
 
 ### Estrutura básica para prompts de imagem
 
