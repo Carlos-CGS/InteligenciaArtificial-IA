@@ -221,6 +221,7 @@ Revise a resposta, identifique possíveis erros e informe qualquer ponto que pre
 | Firebase Studio | Prototipagem e desenvolvimento conectado ao ecossistema Firebase | [Acessar](https://firebase.studio/) |
 | GitHub Spark | Criação de pequenas aplicações conectadas ao GitHub | [Acessar](https://github.com/features/spark) |
 | deed.page | Publicação do HTML ou da pasta estática gerada por um agente de IA (Claude Code, Codex, Cursor) em um link público, sem criar conta | [Acessar](https://deed.page/) |
+| Imagera Code | Agente de programação com IA no terminal: lê e edita o projeto, executa comandos e testes, roda de forma não interativa (`imagera-code run`, para scripts e CI) e usa servidores MCP como ferramentas. Uma assinatura dá acesso a Claude, GPT, Gemini e centenas de outros modelos, com limites que renovam a cada 3 horas e um limite semanal. Pago, a partir de US$ 20/mês | [Acessar](https://imagera.ai/code) |
 
 ### O que pedir a uma IA de programação
 
@@ -442,6 +443,7 @@ Proporção:
 | Descript | Edição de vídeo e áudio baseada em transcrição | [Acessar](https://www.descript.com/) |
 | Orkas | App desktop de código aberto (macOS · Windows) com uma equipe de agentes de IA; o agente VideoStudio monta uma primeira versão revisável do vídeo a partir do material bruto | [Acessar](https://orkas.ai/?lang=pt&source=gh_carlos_ia) |
 | pitchboom.io | Estúdio de motion design com IA para anúncios em vídeo: cole a URL de um produto ou um briefing curto e receba vídeos com roteiro, storyboard editável, narração e música em 16:9, 9:16, 1:1, 4:5 e 3:4 (500 créditos grátis no cadastro, sem cartão; planos a partir de €30/mês) | [Acessar](https://pitchboom.io) |
+| Imagera | Estúdio web de IA para imagens, vídeo, voz e música: vários modelos de imagem e vídeo lado a lado, com o preço em créditos mostrado antes de cada geração; Character IDs mantêm o mesmo rosto ou produto em todas as cenas, e o AI Smart Director transforma um prompt em um vídeo editado com várias cenas, música e narração. Pago (planos de créditos) | [Acessar](https://imagera.ai/) |
 
 ### Elementos de um bom prompt de vídeo
 
