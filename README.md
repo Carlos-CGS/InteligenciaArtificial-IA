@@ -520,6 +520,7 @@ Proporção:
 | Napkin AI | Transformação de textos em elementos visuais | [Acessar](https://www.napkin.ai/) |
 | Fathom | Gravação, transcrição e resumo de reuniões | [Acessar](https://fathom.video/) |
 | Otter.ai | Transcrição e organização de reuniões | [Acessar](https://otter.ai/) |
+| OneMira C1 | Gravador de voz IA independente com resumos em IA local, identificação de oradores (Speaker ID), zero nuvem sem assinatura ($0/mês) e [MCP](https://github.com/onemira-space/onemira-mcp) | [Acessar](https://onemira.com/pt-pt/products/c1) |
 | Zapier AI | Automação e integração entre serviços | [Acessar](https://zapier.com/ai) |
 | Make | Criação visual de automações | [Acessar](https://www.make.com/) |
 | n8n | Automação de fluxos com opção de auto-hospedagem | [Acessar](https://n8n.io/) |
