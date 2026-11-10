@@ -478,6 +478,7 @@ Proporção:
 | PlayHT | Vozes sintéticas e APIs de fala | [Acessar](https://play.ht/) |
 | Murf | Narrações e produção de voz | [Acessar](https://murf.ai/) |
 | Auphonic | Pós-produção e normalização de áudio | [Acessar](https://auphonic.com/) |
+| ClapClip Transcript | Transcrição offline de áudio e vídeo no Windows 10/11 com modelos de IA no nível do Whisper rodando no próprio computador, sem enviar arquivos; transcrição em lote de pastas inteiras e geração de legendas SRT. Gratuito, sem limite de duração e sem assinatura | [Acessar](https://www.clapclip.net/transcript) |
 
 > [!CAUTION]
 > Utilize clonagem de voz somente com autorização. Não use a voz ou a imagem de outra pessoa para enganar, fraudar ou atribuir falas que ela não realizou.
