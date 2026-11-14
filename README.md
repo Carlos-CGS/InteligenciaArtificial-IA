@@ -499,6 +499,7 @@ Proporção:
 | Semantic Scholar | Busca acadêmica e descoberta de artigos | [Acessar](https://www.semanticscholar.org/) |
 | Connected Papers | Visualização de relações entre artigos | [Acessar](https://www.connectedpapers.com/) |
 | ChatDOC | Perguntas e análises sobre documentos | [Acessar](https://chatdoc.com/) |
+| GetYouTubeTranscript | Transcrição de vídeos do YouTube com marcação de tempo, tradução e resumo com IA para estudar aulas e palestras | [Acessar](https://getyoutubetranscript.com/) |
 
 ### Cuidados em pesquisa
 
