@@ -445,6 +445,7 @@ Proporção:
 | Orkas | App desktop de código aberto (macOS · Windows) com uma equipe de agentes de IA; o agente VideoStudio monta uma primeira versão revisável do vídeo a partir do material bruto | [Acessar](https://orkas.ai/?lang=pt&source=gh_carlos_ia) |
 | pitchboom.io | Estúdio de motion design com IA para anúncios em vídeo: cole a URL de um produto ou um briefing curto e receba vídeos com roteiro, storyboard editável, narração e música em 16:9, 9:16, 1:1, 4:5 e 3:4 (500 créditos grátis no cadastro, sem cartão; planos a partir de €30/mês) | [Acessar](https://pitchboom.io) |
 | Imagera | Estúdio web de IA para imagens, vídeo, voz e música: vários modelos de imagem e vídeo lado a lado, com o preço em créditos mostrado antes de cada geração; Character IDs mantêm o mesmo rosto ou produto em todas as cenas, e o AI Smart Director transforma um prompt em um vídeo editado com várias cenas, música e narração. Pago (planos de créditos) | [Acessar](https://imagera.ai/) |
+| RefVid | Vídeos de IA que mantêm o mesmo personagem ou produto em todas as cenas, a partir de algumas imagens de referência (primeiro clipe de 5 segundos grátis, sem cartão; planos a partir de US$ 10/mês) | [Acessar](https://refvid.com/pt?utm_source=github&utm_medium=awesome&utm_campaign=InteligenciaArtificial-IA) |
 
 ### Elementos de um bom prompt de vídeo
 
