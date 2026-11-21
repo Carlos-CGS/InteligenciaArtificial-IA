@@ -446,6 +446,7 @@ Proporção:
 | pitchboom.io | Estúdio de motion design com IA para anúncios em vídeo: cole a URL de um produto ou um briefing curto e receba vídeos com roteiro, storyboard editável, narração e música em 16:9, 9:16, 1:1, 4:5 e 3:4 (500 créditos grátis no cadastro, sem cartão; planos a partir de €30/mês) | [Acessar](https://pitchboom.io) |
 | Imagera | Estúdio web de IA para imagens, vídeo, voz e música: vários modelos de imagem e vídeo lado a lado, com o preço em créditos mostrado antes de cada geração; Character IDs mantêm o mesmo rosto ou produto em todas as cenas, e o AI Smart Director transforma um prompt em um vídeo editado com várias cenas, música e narração. Pago (planos de créditos) | [Acessar](https://imagera.ai/) |
 | RefVid | Vídeos de IA que mantêm o mesmo personagem ou produto em todas as cenas, a partir de algumas imagens de referência (primeiro clipe de 5 segundos grátis, sem cartão; planos a partir de US$ 10/mês) | [Acessar](https://refvid.com/pt?utm_source=github&utm_medium=awesome&utm_campaign=InteligenciaArtificial-IA) |
+| Twistavo | Estúdio de vídeo com IA para troca de personagem: substitui uma pessoa em um vídeo real a partir de 1 a 4 fotos, e cria vídeos de influenciadores de IA; vários modelos de vídeo e imagem com um único saldo de créditos (1 imagem grátis após o cadastro; vídeos exigem um plano, a partir de US$ 3,99/mês) | [Acessar](https://twistavo.com/) |
 
 ### Elementos de um bom prompt de vídeo
 
