@@ -502,6 +502,7 @@ Proporção:
 | Connected Papers | Visualização de relações entre artigos | [Acessar](https://www.connectedpapers.com/) |
 | ChatDOC | Perguntas e análises sobre documentos | [Acessar](https://chatdoc.com/) |
 | GetYouTubeTranscript | Transcrição de vídeos do YouTube com marcação de tempo, tradução e resumo com IA para estudar aulas e palestras | [Acessar](https://getyoutubetranscript.com/) |
+| QuestionPunk | Questionários e entrevistas por voz ou texto em que a IA faz perguntas de aprofundamento, com relatórios e tabelas cruzadas das respostas | [Acessar](https://www.questionpunk.com/) |
 
 ### Cuidados em pesquisa
 
